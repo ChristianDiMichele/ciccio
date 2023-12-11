@@ -5,7 +5,3 @@
 body {
   @apply bg-red-950;
 }
-
-h1 {
-  @apply text-red-600 text-center text-5xl font-black;
-}
